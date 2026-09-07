@@ -1,4 +1,4 @@
-\# Retail Sales Performance Analysis
+\Retail Sales Performance Analysis
 
 
 
@@ -6,7 +6,7 @@ End-to-end data analysis project that uses SQL, Excel, and Power BI for the Onli
 
 
 
-\## Data Cleaning
+\Data Cleaning
 
 \- Raw dataset: 1,067,371 transaction records
 
@@ -18,7 +18,7 @@ End-to-end data analysis project that uses SQL, Excel, and Power BI for the Onli
 
 
 
-\## Key Findings
+\Key Findings
 
 \- \*\*Seasonality\*\*: Revenue peaks consistently in October–November (holiday shopping), with a dip in December–February
 
@@ -30,7 +30,7 @@ End-to-end data analysis project that uses SQL, Excel, and Power BI for the Onli
 
 
 
-\## Tools Used
+\Tools Used
 
 \- \*\*SQL (SQLite)\*\*: Data cleaning, aggregation, RFM customer segmentation
 
@@ -40,7 +40,7 @@ End-to-end data analysis project that uses SQL, Excel, and Power BI for the Onli
 
 
 
-\## Repository Structure
+\Repository Structure
 
 \- `/sql` — cleaning and analysis queries
 
