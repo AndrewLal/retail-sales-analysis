@@ -1,4 +1,4 @@
-\# Retail Sales Performance Analysis
+\Retail Sales Performance Analysis
 
 
 
@@ -8,7 +8,7 @@ Online Retail II dataset (UK-based online retailer, Dec 2009–Dec 2011).
 
 
 
-\## Data Cleaning
+\Data Cleaning
 
 \- Raw dataset: 1,067,371 transaction records
 
@@ -24,7 +24,7 @@ Online Retail II dataset (UK-based online retailer, Dec 2009–Dec 2011).
 
 
 
-\## Key Findings
+\Key Findings
 
 \- \*\*Seasonality\*\*: Revenue peaks consistently in October–November 
 
@@ -42,7 +42,7 @@ Online Retail II dataset (UK-based online retailer, Dec 2009–Dec 2011).
 
 
 
-\## Tools Used
+\Tools Used
 
 \- \*\*SQL (SQLite)\*\*: Data cleaning, aggregation, RFM customer segmentation
 
@@ -52,7 +52,7 @@ Online Retail II dataset (UK-based online retailer, Dec 2009–Dec 2011).
 
 
 
-\## Repository Structure
+\Repository Structure
 
 /sql     — cleaning and analysis queries
 
